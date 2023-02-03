@@ -1,6 +1,6 @@
 import java.util.Scanner; // import the Scanner class 
 
-class Main {
+class Operators {
   public static void main(String[] args) {
     System.out.println("Hello world!");
     Scanner myObj = new Scanner(System.in);
